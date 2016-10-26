@@ -304,6 +304,11 @@ background: #428bca;
     vertical-align: middle;
 }
 
+.image-profile-icon{
+    min-width: 122px;
+    min-height: 122px;
+}
+
 .tab-pane > .row > div > p{
     padding-top: 12px;
     padding-bottom: 12px;
